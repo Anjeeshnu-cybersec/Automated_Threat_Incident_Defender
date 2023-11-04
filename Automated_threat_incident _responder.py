@@ -1,3 +1,7 @@
+# This code is created by Anjeeshnu Banerjee 
+# this is gaurded by Gnu v3 lisence for copy right 
+# you can find comment after each line of code to help understand what its doing and yeah its also for my future use soo i dont forget what i have written 
+
 
 import time  # Import the time module to add time-based functionality
 
